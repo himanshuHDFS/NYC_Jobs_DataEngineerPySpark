@@ -24,4 +24,5 @@ jupyter notebook
 
 Run notebook
 
-notebooks/nyc_jobs_analysis.ipynb
+
+notebooks/assesment_notebook.ipynb
